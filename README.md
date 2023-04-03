@@ -1,5 +1,4 @@
 <h1 align="center">Hello there 👋, I'm Alexandre Morais</h1>
-<h3 align="center">A passionate web developer</h3>
 
 <h3 align="left">Contact me:</h3>
 <a href="mailto:xandre2setembro2002@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
