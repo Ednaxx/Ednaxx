@@ -17,7 +17,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ednaxx&show_icons=true&theme=dark&title_color=3f84e4&text_color=3f84e4&hide_border=true&locale=en&count_private=true" alt="ednaxx" /></p>
+<p>&nbsp;<img align="left" src="https://readmestats.999857.xyz/api?username=ednaxx&show_icons=true&theme=dark&title_color=3f84e4&text_color=3f84e4&hide_border=true&locale=en&count_private=true" alt="ednaxx" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednaxx&show_icons=true&theme=dark&title_color=3f84e4&text_color=3f84e4&hide_border=true&locale=en&layout=compact" alt="ednaxx" /></p>
+<p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=ednaxx&show_icons=true&theme=dark&title_color=3f84e4&text_color=3f84e4&hide_border=true&locale=en&layout=compact" alt="ednaxx" /></p>
 
