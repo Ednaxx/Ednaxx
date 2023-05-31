@@ -13,7 +13,7 @@
 
 <h3 align="left">Learning:</h3>
   
-![My Skills](https://skillicons.dev/icons?i=java,postgre)
+![My Skills](https://skillicons.dev/icons?i=java,postgresql)
 
 
 
