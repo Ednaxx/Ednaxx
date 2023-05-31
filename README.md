@@ -8,12 +8,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sass,typescript,git,sqlite,photoshop)
+![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sass,react,nodejstypescript,git,sqlite,photoshop)
 
 
 <h3 align="left">Learning:</h3>
   
-![My Skills](https://skillicons.dev/icons?i=java,react)
+![My Skills](https://skillicons.dev/icons?i=java,postgreSQL)
 
 
 
