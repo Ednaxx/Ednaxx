@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,expressjs,sqlite,postgresql,mongodb,photoshop)
+![My Skills](https://skillicons.dev/icons?i=python,js,html,css,typescript,react,nodejs,expressjs,sqlite,postgresql,mongodb,photoshop)
 
 
 <h3 align="left">Learning:</h3>
