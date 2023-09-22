@@ -13,7 +13,7 @@
 
 <h3 align="left">Learning:</h3>
   
-![My Skills](https://skillicons.dev/icons?i=spring,aws)
+![My Skills](https://skillicons.dev/icons?i=spring)
 
 
 
