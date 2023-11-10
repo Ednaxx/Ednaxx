@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-![My Skills](https://skillicons.dev/icons?i=python,js,java,spring,react,nextjs,nodejs,expressjs,postgresql,mongodb,photoshop)
+![My Skills](https://skillicons.dev/icons?i=python,js,java,spring,react,nextjs,nodejs,expressjs,pandas,postgresql,mongodb,photoshop)
 
 
 <p>&nbsp;<img align="left" src="https://readmestats.999857.xyz/api?username=ednaxx&show_icons=true&theme=dark&title_color=3f84e4&text_color=3f84e4&hide_border=true&locale=en&count_private=true" alt="ednaxx" /></p>
