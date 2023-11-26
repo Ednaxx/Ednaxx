@@ -4,7 +4,7 @@
 
 <p align="justify">👨‍💻 Strongly interested in technology, science and development.</p>
 
-<p align="justify">🧐 Learning Microservices with Spring Cloud and Data Science with Python</p>
+<p align="justify">🧐 Learning Microservices with Spring Cloud 🍃 and Data Science with Python 🐍</p>
 
 <p align="justify">🤓 I love gaming, fantasy stories, illustrating and lifting weights</p>
 
