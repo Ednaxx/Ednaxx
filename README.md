@@ -16,8 +16,13 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-  
-![My Skills](https://skillicons.dev/icons?i=python,js,java,spring,react,nextjs,nodejs,expressjs,postgresql,mongodb,photoshop)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 <p>&nbsp;<img align="left" src="https://readmestats.999857.xyz/api?username=ednaxx&show_icons=true&theme=dark&title_color=3f84e4&text_color=3f84e4&hide_border=true&locale=en&count_private=true" alt="ednaxx" /></p>
