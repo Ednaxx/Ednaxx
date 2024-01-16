@@ -28,5 +28,5 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ednaxx&include_all_commits&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednaxx&hide_progress=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednaxx&hide_progress=true&count_private=true&theme=tokyonight&hide_border=true&langs_count=4" />
 </a>
