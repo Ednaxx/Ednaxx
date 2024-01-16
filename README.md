@@ -24,8 +24,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-
-<p>&nbsp;<img align="left" src="https://readmestats.999857.xyz/api?username=ednaxx&show_icons=true&theme=dark&title_color=3f84e4&text_color=3f84e4&hide_border=true&locale=en&count_private=true" alt="ednaxx" /></p>
-
-<p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=ednaxx&show_icons=true&theme=dark&title_color=3f84e4&text_color=3f84e4&hide_border=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="ednaxx" /></p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ednaxx&include_all_commits&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednaxx&hide_progress=true&count_private=true&theme=tokyonight&hide_border=true" />
+</a>
