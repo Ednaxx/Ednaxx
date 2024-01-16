@@ -25,8 +25,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ednaxx&include_all_commits&theme=tokyonight&hide_border=true" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=ednaxx&include_all_commits&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednaxx&hide_progress=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednaxx&hide_progress=true&count_private=true&theme=tokyonight&hide_border=true" />
 </a>
