@@ -2,7 +2,7 @@
 
 <p align="justify">👨‍🎓 Systems analysis and Development Undergraduate (IFBA)</p>
 
-<p align="justify">👨‍💻 Strongly interested in technology, science and development.</p>
+<p align="justify">👨‍💻 Strongly interested in technology, science and software development.</p>
 
 <p align="justify">🧐 Learning Data Science 📊 (and how to make machines think) with Python 🐍</p>
 
