@@ -8,6 +8,8 @@
 
 <p align="justify">🤓 I love gaming, fantasy stories, illustrating and lifting weights</p>
 
+<p align="justify">👨‍🎨 Telling stories through illustrations 💕</p>
+
 <p align="justify">🇰 Let's interact on <a href="https://www.kaggle.com/ednaxx">Kaggle!<a/></p>
 
 <h3 align="left">Contact me:</h3>
