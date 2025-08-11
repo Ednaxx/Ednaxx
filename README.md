@@ -4,8 +4,6 @@
 
 <p align="justify">👨‍💻 Technology, science and software development nerd.</p>
 
-<p align="justify">🤓 I love gaming, fantasy stories, illustrating and lifting weights</p>
-
 <p align="justify">👨‍🎨 Telling stories through illustrations 💕</p>
 
 <h3 align="left">Contact me:</h3>
